@@ -232,3 +232,4 @@ currentSpeed,freeFlowSpeed,speed_ratio,delay_seconds,roadClosure,congestion_labe
 34,34,1.0,0,0,Low
 27,36,0.75,161,0,Low
 26,35,0.7429,173,0,Low
+25,36,0.6944,212,0,Medium
